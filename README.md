@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning machine learning and web development
 - 💬 Ask me about project management 
 - 📫 How to reach me: bagasrizal.work@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Solo Leveling is one of the best manwha series
+- 😄 2024 Goals: Learn more about machine learning
+- ⚡ Fun fact: Beside coding, i'm also a powerlifter
 
 ### Connect with me:
 
@@ -16,4 +16,8 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/bagasdrizal?igsh=MW03OTEyeXllbXF5bg==#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/bagasdrizal?igsh=MW03OTEyeXllbXF5bg==#gh-dark-mode-only)
+
+### Languages and Tools:
+
+
 ---
