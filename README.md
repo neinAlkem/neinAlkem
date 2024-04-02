@@ -1,4 +1,4 @@
-# Baghas Rizaluddin
+# 🤖 Baghas Rizaluddin
 
 **`Project Swordmans (Project Manager/Developer/Machine Learning Addict)`**
 
@@ -7,7 +7,7 @@
 - 💬 Ask me about project management
 - 📫 How to reach me: bagasrizal.work@gmail.com
 - 😄 2024 Goals: Learn more about machine learning
-- ⚡ Fun fact: Beside coding, i'm also a powerlifter
+- 🏋️‍♂️ Fun fact: Beside coding, i'm also a powerlifter
 
 ### Connect with me:
 
