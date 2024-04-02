@@ -9,6 +9,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Solo Leveling is one of the best manwha series
 
+### Connect with me:
+
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/baghas-rizaluddin-051049243#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/baghas-rizaluddin-051049243#gh-dark-mode-only)
 &nbsp;&nbsp;
