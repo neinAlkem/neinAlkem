@@ -1,13 +1,12 @@
 # 🤖 Baghas Rizaluddin
 
-**`Project Swordmans (Project Manager/Developer/Machine Learning Addict)`**
+**`Project Swordmans (Project Manager/Developer/Machine Learning Enthusiasm)`**
 
 - 🔭 I’m currently studying in Universitas Brawijaya
 - 🌱 I’m currently learning machine learning and web development
-- 💬 Ask me about project management
 - 📫 How to reach me: bagasrizal.work@gmail.com
-- 😄 2024 Goals: Learn more about machine learning
-- 🏋️‍♂️ Fun fact: Beside coding, i'm also a powerlifter
+- 😄 2024 Goals: learn more about machine learning
+- 🏋️‍♂️ Fun fact: beside coding, i'm also a powerlifter
 
 ### Connect with me:
 
@@ -26,7 +25,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MariaDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>
 
 <br/>
