@@ -1,9 +1,9 @@
 # 🤖 Baghas Rizaluddin
 
-**`Tech Alchemist (Project Manager/Developer/Machine Learning Enthusiasm)`**
+**`Nein Alkem (Project Manager/Developer/Machine Learning Enthusiasm)`**
 
 - 🔭 I’m currently studying in Universitas Brawijaya
-- 🌱 I’m currently learning machine learning and web development
+- 🌱 I’m cDurrently learning machine learning and web development
 - 📫 How to reach me: bagasrizal.work@gmail.com
 - 😄 2024 Goals: learn deeper topics about machine learning
 - 🏋️‍♂️ Fun fact: beside coding, i'm also a powerlifter
