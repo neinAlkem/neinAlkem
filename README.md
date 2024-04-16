@@ -1,11 +1,11 @@
 # 🤖 Baghas Rizaluddin
 
-**`Project Swordmans (Project Manager/Developer/Machine Learning Enthusiasm)`**
+**`Tech Alchemist (Project Manager/Developer/Machine Learning Enthusiasm)`**
 
 - 🔭 I’m currently studying in Universitas Brawijaya
 - 🌱 I’m currently learning machine learning and web development
 - 📫 How to reach me: bagasrizal.work@gmail.com
-- 😄 2024 Goals: learn more about machine learning
+- 😄 2024 Goals: learn deeper topics about machine learning
 - 🏋️‍♂️ Fun fact: beside coding, i'm also a powerlifter
 
 ### Connect with me:
