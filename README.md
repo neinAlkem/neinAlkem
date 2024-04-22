@@ -8,13 +8,13 @@
 - 😄 2024 Goals: learn deeper topics about machine learning
 - 🏋️‍♂️ Fun fact: beside coding, i'm also a powerlifter -->
 
-🔭 Hi! My name is Baghas Rizaluddin, a student at Universitas Brawijaya who is passionate about the world of machine learning and web development. 🌱 I'm currently diving deep into learning more advanced topics in machine learning. 
+🔭 Hi! My name is Baghas Rizaluddin, a student at Universitas Brawijaya who is passionate about the world of machine learning and web development. 
 
 If you'd like to connect with me, you can reach me through email 📫[bagasrizal.work@gmail.com].
 
 In 2024, I have a goal to further deepen my knowledge of machine learning, while also want to continue honing my web development skills and project management.
 
-Nice to meet you! 🏋️‍♂️ 
+Nice to meet you! 
 
 ### Connect with me:
 
