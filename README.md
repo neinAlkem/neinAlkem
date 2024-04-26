@@ -3,7 +3,7 @@
 **`Nein Alkem (Project Manager/Developer/Machine Learning Enthusiasm)`**
 
 - 🔭 I’m currently studying in Universitas Brawijaya
-- 🌱 I’m cDurrently learning machine learning and web development
+- 🌱 An antusiast learner of machine learning and web development
 - 📫 How to reach me: bagasrizal.work@gmail.com
 - 😄 2024 Goals: learn deeper topics about machine learning
 - 🏋️‍♂️ Fun fact: beside coding, i'm also a powerlifter
