@@ -1,6 +1,6 @@
 # 🤖 Baghas Rizaluddin
 
-**`Nein Alkem (Project Manager/Developer/Machine Learning Enthusiasm)`**
+**`Nein Alkem (Machine Learning and Data Science Artisan)`**
 
 - 🔭 I’m currently studying in Universitas Brawijaya
 - 🌱 An antusiast learner of machine learning and data science
