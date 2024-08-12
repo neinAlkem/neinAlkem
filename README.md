@@ -5,8 +5,8 @@
 - 🔭 I’m currently studying in Universitas Brawijaya
 - 🌱 An antusiast learner of machine learning and data science
 - 📫 How to reach me: bagasrizal.work@gmail.com
-- 😄 2024 Goals: learn deeper topics about machine learning
-- 🏋️‍♂️ Fun fact: beside coding, i play a lot of sport.
+- 😄 My 2024 goals are learn deeper topics about machine learning and data science
+- 🏋️‍♂️ Fun fact about me is that beside coding, i do a lot of sports
 
 <!-- 🔭 Hi! My name is Baghas Rizaluddin, a student at Universitas Brawijaya who is passionate about the world of machine learning and web development. 
 
@@ -32,6 +32,8 @@ Nice to meet you!  -->
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"style="padding-right:10px;" />
 <img align="left" alt="Tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"style="padding-right:10px;" />
 <img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" style="padding-right:10px;" />
