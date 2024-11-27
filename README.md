@@ -6,7 +6,6 @@
 - 🌱 An antusiast learner of machine learning and data science
 - 📫 How to reach me: bagasrizal.work@gmail.com
 - 😄 My 2024 goals are learn deeper topics about machine learning and data science
-- 🏋️‍♂️ Fun fact about me is that beside coding, i do a lot of sports
 
 <!-- 🔭 Hi! My name is Baghas Rizaluddin, a student at Universitas Brawijaya who is passionate about the world of machine learning and web development. 
 
