@@ -1,11 +1,10 @@
 # 🤖 Baghas Rizaluddin
 
-**`Nein Alkem (Machine Learning and Data Science Artisan)`**
+**`Baghas Rizaluddin - (Data Alchemist)`**
 
 - 🔭 I’m currently studying in Universitas Brawijaya
-- 🌱 An antusiast learner of machine learning and data science
-- 📫 How to reach me: bagasrizal.work@gmail.com
-- 😄 My 2024 goals are learn deeper topics about machine learning and data science
+- 🌱 An antusiast learner of data engineering-analytics and AI/ML
+- 📫 How to reach me: bagasrizal.work@gmail.come
 
 <!-- 🔭 Hi! My name is Baghas Rizaluddin, a student at Universitas Brawijaya who is passionate about the world of machine learning and web development. 
 
@@ -38,8 +37,12 @@ Nice to meet you!  -->
 <img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" style="padding-right:10px;"/>
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" style="padding-right:10px;"/>
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" style="padding-right:10px;"/>
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" style="padding-right:10px;"/>
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" style="padding-right:10px;"/>
+
 
 <br/>
 <br/>
