@@ -1,18 +1,16 @@
 # 🤖 Baghas Rizaluddin
 
-**`Baghas Rizaluddin - (Data Alchemist)`**
-
-- 🔭 I’m currently studying in Universitas Brawijaya
+<!--- 🔭 I’m currently studying in Universitas Brawijaya
 - 🌱 An antusiast learner of data engineering-analytics and AI/ML
-- 📫 How to reach me: bagasrizal.work@gmail.come
+- 📫 How to reach me: bagasrizal.work@gmail.come -->
 
-<!-- 🔭 Hi! My name is Baghas Rizaluddin, a student at Universitas Brawijaya who is passionate about the world of machine learning and web development. 
+ 🔭 Hi! My name is Baghas Rizaluddin, a student at Universitas Brawijaya who is passionate about the world of data engineering and analytics. 
 
 If you'd like to connect with me, you can reach me through email 📫[bagasrizal.work@gmail.com].
 
-In 2024, I have a goal to further deepen my knowledge of machine learning, while also want to continue honing my web development skills and project management.
+In 2025, I have a goal to further broaden my knowledge of data engineering.
 
-Nice to meet you!  -->
+Nice to meet you!  
 
 ### Connect with me:
 
