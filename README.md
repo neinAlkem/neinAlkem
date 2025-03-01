@@ -4,10 +4,8 @@
 - 🌱 An antusiast learner of data engineering-analytics and AI/ML
 - 📫 How to reach me: bagasrizal.work@gmail.come -->
 
- 🔭 Hi! My name is Baghas Rizaluddin, a student at Universitas Brawijaya who is passionate about the world of data engineering and analytics. 
-
+Hi! My name is Baghas Rizaluddin, a student at Universitas Brawijaya who is passionate about the world of data engineering and analytics. 
 If you'd like to connect with me, you can reach me through email 📫[bagasrizal.work@gmail.com].
-
 In 2025, I have a goal to further broaden my knowledge of data engineering.
 
 Nice to meet you!  
