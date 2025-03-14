@@ -1,4 +1,4 @@
-# 🤖 Baghas Rizaluddin
+# Baghas Rizaluddin
 
 <!--- 🔭 I’m currently studying in Universitas Brawijaya
 - 🌱 An antusiast learner of data engineering-analytics and AI/ML
