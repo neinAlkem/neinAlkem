@@ -38,6 +38,9 @@ Nice to meet you!
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" style="padding-right:10px;"/>
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" style="padding-right:10px;"/>
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" style="padding-right:10px;"/>
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;"/>
 
 
 <br/>
