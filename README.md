@@ -43,10 +43,6 @@ Nice to meet you!
   <img alt="Terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
   <img alt="Google Cloud" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 </div>
-
-
-
 <br/>
 <br/>
-
 ---
