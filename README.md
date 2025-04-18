@@ -6,7 +6,7 @@
 
 - Hi! My name is Baghas Rizaluddin, a student at Universitas Brawijaya
 - If you'd like to connect with me, you can reach me through email 📫[bagasrizal.work@gmail.com].
-- An antusiast learner of data engineering-analytics and AI/ML
+- An antusiast learner of **data engineering-analytics and AI/ML**
 
 Nice to meet you!  
 
