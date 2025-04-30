@@ -1,3 +1,4 @@
+![My GitHub Profile Banner](https://github.com/neinAlkem/neinAlkem/blob/main/img/banner.png)
 # Baghas Rizaluddin
 
 <!--- 🔭 I’m currently studying in Universitas Brawijaya
