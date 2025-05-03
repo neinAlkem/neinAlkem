@@ -38,6 +38,7 @@ Nice to meet you!
   <img alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <br>
   <br>
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />   
   <img alt="Git" width="30px" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" />
   <img alt="Docker" width="30px" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
   <img alt="Kubernetes" width="30px" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" />
