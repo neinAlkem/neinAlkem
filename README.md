@@ -23,6 +23,7 @@ Nice to meet you!
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
   <img alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
   <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -40,8 +41,12 @@ Nice to meet you!
   <img alt="Kubernetes" width="30px" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" />
   <img alt="Linux" width="30px" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" />
   <img alt="AWS" width="30px" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" />
-  <img alt="Airflow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" />
+  <img alt="Google Cloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+  <img alt="Google Cloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+  <img alt="Airflow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />
   <img alt="Terraform" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
   <img alt="Google Cloud" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+  <img alt="Google Cloud" width="30px" src="https://api.iconify.design/logos:dbt-icon.svg" />
+  
 </div>
 <br/>
