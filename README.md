@@ -5,7 +5,12 @@
 - 🌱 An antusiast learner of data engineering-analytics and AI/ML
 - 📫 How to reach me: bagasrizal.work@gmail.come -->
 
-- Hi! My name is Baghas Rizaluddin, a student at Universitas Brawijaya
+
+<div>
+  <img align="right" width="40%" src="https://github.com/neinAlkem/neinAlkem/blob/main/img/pipeline.png">
+</div>
+
+- Hi! My name is Baghas Rizaluddin, a student at Universitas Brawijaya 
 - If you'd like to connect with me, you can reach me through email 📫[bagasrizal.work@gmail.com].
 - An antusiast learner of **data engineering-analytics and AI/ML**
 
