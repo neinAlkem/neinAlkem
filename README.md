@@ -1,5 +1,5 @@
-![My GitHub Profile Banner](https://github.com/neinAlkem/neinAlkem/blob/main/img/banner.png)
-# Baghas Rizaluddin
+<!-- ![My GitHub Profile Banner](https://github.com/neinAlkem/neinAlkem/blob/main/img/banner.png) -->
+# Baghas Rizaluddin 
 
 <!--- 🔭 I’m currently studying in Universitas Brawijaya
 - 🌱 An antusiast learner of data engineering-analytics and AI/ML
