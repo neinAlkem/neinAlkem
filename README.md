@@ -1,21 +1,21 @@
 ![My GitHub Profile Banner](https://github.com/neinAlkem/neinAlkem/blob/main/img/banner.png) 
-# Baghas Rizaluddin 
+# Hi, I'm Baghas Rizaluddin 
 
 <!--- 🔭 I’m currently studying in Universitas Brawijaya
 - 🌱 An antusiast learner of data engineering-analytics and AI/ML
 - 📫 How to reach me: bagasrizal.work@gmail.come -->
+🌏 Based in Jakarta, Indonesia | 🧠 Passionate building smart and secure scalable system
+
+*Data Engineering | Cloud and Infrastructure Engineering | AI-IOTR | Cybersecurity.*
 
 
- <!-- <div>
-  <img align="right" width="40%" src="https://github.com/neinAlkem/neinAlkem/blob/main/img/pipeline.png">
-</div>  -->
+As an engineer, i have develop a strong interest in designing scalable systems, working with data pipelines, and exploring how intelligent technologies can be integrated into real-world solutions. I enjoy building hands-on projects, experimenting with new tools and technologies, and continuously improving my skills to stay aligned with the rapidly evolving tech landscape. 
 
-Hi! I’m Baghas Rizaluddin, a passionate learner focused on **data engineering, cloud and infrastructure engineering, AI-IOTR, and cybersecurity.** I have a strong interest in designing scalable systems, working with data pipelines, and exploring how intelligent technologies can be integrated into real-world solutions.
-
-I enjoy building hands-on projects, experimenting with new tools and technologies, and continuously improving my skills to stay aligned with the rapidly evolving tech landscape.
 I’m always open to learning opportunities, collaborations, and meaningful discussions in tech.
 
-If you’d like to connect or collaborate, feel free to reach out via email 📫 bagasrizal.work@gmail.com
+If you’d like to connect or collaborate, feel free to reach out via email 📫 bagasrizal.work@gmail.com🌏
+
+
 
 Nice to e-meet you!  
 
@@ -45,8 +45,6 @@ Nice to e-meet you!
   <img alt="Tailwindcss" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
   <img alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <br>
-  <br>
   <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />   
   <img alt="Git" width="30px" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" />
   <img alt="Docker" width="30px" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
