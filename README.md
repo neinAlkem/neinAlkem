@@ -1,4 +1,4 @@
-<!-- ![My GitHub Profile Banner](https://github.com/neinAlkem/neinAlkem/blob/main/img/banner.png) -->
+![My GitHub Profile Banner](https://github.com/neinAlkem/neinAlkem/blob/main/img/banner.png) 
 # Baghas Rizaluddin 
 
 <!--- 🔭 I’m currently studying in Universitas Brawijaya
@@ -10,9 +10,10 @@
   <img align="right" width="40%" src="https://github.com/neinAlkem/neinAlkem/blob/main/img/pipeline.png">
 </div>
 
-- Hi! My name is Baghas Rizaluddin, a student at Universitas Brawijaya 
-- If you'd like to connect with me, you can reach me through email 📫[bagasrizal.work@gmail.com].
-- An antusiast learner of **data engineering, infra-cloud engineering, AI-IOTR, and cybersecurity**
+Hi! I’m Baghas Rizaluddin, a passionate learner exploring the world of **data engineering, cloud and infrastructure engineering, AI-IOTR, and cybersecurity.** 
+I enjoy building, experimenting, and continuously expanding my knowledge across these fields.
+
+If you’d like to connect or collaborate, feel free to reach out via email 📫 bagasrizal.work@gmail.com
 
 Nice to e-meet you!  
 
