@@ -13,7 +13,6 @@
 Hi! I’m Baghas Rizaluddin, a passionate learner focused on **data engineering, cloud and infrastructure engineering, AI-IOTR, and cybersecurity.** I have a strong interest in designing scalable systems, working with data pipelines, and exploring how intelligent technologies can be integrated into real-world solutions.
 
 I enjoy building hands-on projects, experimenting with new tools and technologies, and continuously improving my skills to stay aligned with the rapidly evolving tech landscape.
-
 I’m always open to learning opportunities, collaborations, and meaningful discussions in tech.
 
 If you’d like to connect or collaborate, feel free to reach out via email 📫 bagasrizal.work@gmail.com
