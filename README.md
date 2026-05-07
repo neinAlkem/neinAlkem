@@ -6,10 +6,10 @@
 - 📫 How to reach me: bagasrizal.work@gmail.come -->
 🌏 Based in Jakarta, Indonesia | 🧠 Passionate building smart-scalable system
 
-***Data Engineering | Cloud and Infrastructure Engineering | AI-IOTR | Cybersecurity*** 
+***Data Engineering | Cloud and Infrastructure Engineering | AI-IOTR | Cybersecurity*** _
 
 
-As an engineer, i have develop a strong interest in designing scalable systems, working with data pipelines, and exploring how intelligent technologies can be integrated into real-world solutions. I enjoy building hands-on projects, experimenting with new tools and technologies, and continuously improving my skills to stay aligned with the rapidly evolving tech landscape. 
+As an engineer, i have develop a strong interest in designing scalable systems, working with data pipelines, and exploring how secure amd intelligent technologies can be integrated into real-world solutions. I enjoy building hands-on projects, experimenting with new tools and technologies, and continuously improving my skills to stay aligned with the rapidly evolving tech landscape. 
 
 I’m always open to learning opportunities, collaborations, and meaningful discussions in tech.
 
